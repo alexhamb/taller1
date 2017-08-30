@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">taller1</string>
+    <string name="adidas">adidas</string>
+    <string name="cantidad">quantity</string>
+    <string name="clasico">classic</string>
+    <string name="genero">gender</string>
+    <string name="hombres">mens</string>
+    <string name="marca">brand</string>
+    <string name="mujeres">womens</string>
+    <string name="nike">nike</string>
+    <string name="puma">puma</string>
+    <string name="resultado">result</string>
+    <string name="tipo">kind</string>
+    <string name="titulo">title</string>
+    <string name="zapatilla">shoe</string>
+    <string name="zapatos">shoes</string>
+</resources>
