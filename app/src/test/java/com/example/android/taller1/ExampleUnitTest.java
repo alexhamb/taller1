@@ -112,8 +112,8 @@ public class ExampleUnitTest {
         int cantidad=2;
 
              double vr= Metodos.total(genero,tipo,marca,cantidad);
-                 double ve = 2000000.0;
-                    assertEquals(vr,ve,0);
+                 double ve = 200000;
+                    assertEquals(ve,vr,0);
     }
     @Test
     public void probarcombinacion8(){
@@ -126,8 +126,8 @@ public class ExampleUnitTest {
         int cantidad=2;
 
                 double vr= Metodos.total(genero,tipo,marca,cantidad);
-                    double ve = 2600000.0;
-                        assertEquals(vr,ve,0);
+                    double ve = 260000.0;
+                        assertEquals(ve,vr,0);
     }
     @Test
     public void probarcombinacion9(){

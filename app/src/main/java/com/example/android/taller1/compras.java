@@ -20,7 +20,6 @@ public class compras extends AppCompatActivity {
     private Spinner genero, tipo, marca;
     private String Opciones[];
     ArrayAdapter<String> adapter;
-    private EditText precioTotal;
     private Resources resources;
 
 
